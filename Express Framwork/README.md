@@ -26,19 +26,19 @@ http://expressjs.com/
 
 
 ## Alguns Comandos
-** Instalar Express **
+**Instalar Express**
 ```
 npm install -g express
 sudo npm install -g express-generator
 ```
 
-** Ver comandos disponiveis **
+**Ver comandos disponiveis**
 
 ```
 express -h
 ```
 
-** Criar projeto já com alguns recursos do Express **
+**Criar projeto já com alguns recursos do Express**
 ```
 express nome_projeto --ejs
 cd nome_projeto
