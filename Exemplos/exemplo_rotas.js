@@ -17,7 +17,7 @@ var server = http.createServer(function (request, response) {
     }
 
     response.end();
-})
+});
 
 server.listen(3000, function () {
     console.log('Servidor em execução')
